@@ -13,8 +13,7 @@
 ## 🌍 Live Preview  
 
 👉 **Live Demo:**  
-https://your-live-link.netlify.app/
-
+https://counter-app-theta-two-60.vercel.app/
 ---
 
 ## 📌 Description  
@@ -88,9 +87,7 @@ counter-app/
 
 ## 📸 Screenshots  
 
-<p align="center">
-  <img src="screenshots/counter-preview.png" width="500px">
-</p>
+![image alt] (https://github.com/Jishanahmad786/counter-app/blob/187b854bc23d9083fc79d9c5a64cbfe6f00f8af8/Screenshot.jpg)
 
 ---
 
