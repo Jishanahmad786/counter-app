@@ -87,7 +87,9 @@ counter-app/
 
 ## 📸 Screenshots  
 
-![image alt] (https://github.com/Jishanahmad786/counter-app/blob/187b854bc23d9083fc79d9c5a64cbfe6f00f8af8/Screenshot.jpg)
+
+  <img src="Screenshot.jpg" width="600">
+
 
 ---
 
